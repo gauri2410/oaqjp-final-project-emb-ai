@@ -1,7 +1,6 @@
-Command: python3 test_emotion_detection.py
-Output:
-...
+PS /home/project/final_project> python3 test_emotion_detection.py
+......
 ----------------------------------------------------------------------
-Ran 3 tests in 0.002s
+Ran 6 tests in 0.005s
 
 OK
