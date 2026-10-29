@@ -1,0 +1,5 @@
+Command:
+python3 -c "from EmotionDetection.emotion_detection import emotion_detector; print(emotion_detector('I am very angry'))"
+
+Output:
+{'anger': 0.9, 'disgust': 0.01, 'fear': 0.02, 'joy': 0.03, 'sadness': 0.04, 'dominant_emotion': 'anger'}
